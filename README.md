@@ -1,10 +1,8 @@
 # Gradient network 挂机脚本
 
-- 项目地址：[https://app.gradient.network/](https://app.gradient.network/signup?code=EK8G9A)
-- 购买代理IP：[https://app.proxy-cheap.com](https://app.proxy-cheap.com/r/ksvW8Z)
-- 使用文档：<https://mirror.xyz/0xe8224b3E9C8d35b34D088BB5A216B733a5A6D9EA/jFFUw6Ew3rWThwMxXMoLaa1UMnV8axoQoMVN0EKEthY>
-- TG: <https://t.me/web3bothub>
-
+- 项目地址：[https://app.gradient.network/](https://app.gradient.network/signup?code=D22V4I)
+- 购买代理IP：[https://app.proxy-cheap.com][(https://app.proxy-cheap.com/r/eJooFR)]
+- TG: [(https://t.me/+tvl-NmQ4hnMyY2M1)]
 > 下面不用看
 
 ## 使用 Docker 启动
